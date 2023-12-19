@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Grindio_5_3",
+			"Path": "..\\Source\\Grindio_5_3.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Grindio_5_3Editor",
+			"Path": "..\\Source\\Grindio_5_3Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

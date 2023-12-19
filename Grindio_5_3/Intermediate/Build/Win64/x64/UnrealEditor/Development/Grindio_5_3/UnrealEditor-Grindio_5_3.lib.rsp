@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Grindio_5_3.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\SVN\Grindio\Grindio_5_3\Intermediate\Build\Win64\x64\Grindio_5_3Editor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h.obj"
+"D:\SVN\Grindio\Grindio_5_3\Intermediate\Build\Win64\x64\UnrealEditor\Development\Grindio_5_3\Deleteme.cpp.obj"
+"D:\SVN\Grindio\Grindio_5_3\Intermediate\Build\Win64\x64\UnrealEditor\Development\Grindio_5_3\Grindio_5_3.cpp.obj"
+"D:\SVN\Grindio\Grindio_5_3\Intermediate\Build\Win64\x64\UnrealEditor\Development\Grindio_5_3\Default.rc2.res"
+/OUT:"D:\SVN\Grindio\Grindio_5_3\Intermediate\Build\Win64\x64\UnrealEditor\Development\Grindio_5_3\UnrealEditor-Grindio_5_3.lib"
